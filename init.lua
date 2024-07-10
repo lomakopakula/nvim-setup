@@ -1,0 +1,2 @@
+require("donszczeniako")
+print("Hello")
